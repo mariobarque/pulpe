@@ -1,0 +1,6 @@
+﻿ID,PARAMETRO,VALOR,CAJA_ID
+1,ultima.version.enlared,0,-1
+2,porcentajeganancia.usa,0,1
+3,porcentajeganancia.valor,20,1
+4,impuestos.usa,0,-1
+5,impuestos.desglosar,1,1
